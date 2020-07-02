@@ -9,8 +9,8 @@ I'm Vicky, a non-binary full stack developer with a specialty in front-end devel
 Hey, I like making things sometimes those things are really elaborate sim houses that my sims never properly appreciate. 
 
 ## What this blog is
-This blog is going to be a place where I share my dev experience. 
+This blog is going to be a place where I share my dev experience. It's going to be a basic, "hey this is what I learned while doing this" and hopefully give anyone whose reading this a few connections to other things they may not have made on their own.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTI5NDA3Ml19
+eyJoaXN0b3J5IjpbLTEyODQyMDgyNjZdfQ==
 -->
