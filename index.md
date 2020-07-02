@@ -4,7 +4,7 @@ You've probably be given a link bc there isn't anything here yet
 ## About me
 Hi lovely person reading this,
 
-I'm Vicky, a non-binary full stack developer. Besides programming I enjoy playing games that I 
+I'm Vicky, a non-binary full stack developer with a specialty in front-end development work. 
 
 ## Languages I've worked in
 - HTML
@@ -17,5 +17,5 @@ I'm Vicky, a non-binary full stack developer. Besides programming I enjoy playin
 - Scala
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMDg5NjI5XX0=
+eyJoaXN0b3J5IjpbOTEyNzc0MjAzXX0=
 -->
