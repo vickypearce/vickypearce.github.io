@@ -2,7 +2,9 @@
 You've probably be given a link bc there isn't anything here yet
 
 ## About me
-Hi, I'm a non-binary full stack de
+Hi lovely person reading this,
+
+I'm Vicky, a non-binary full stack developer. Besides programming I enjoy playing games that I 
 
 ## Languages I've worked in
 - HTML
@@ -15,5 +17,5 @@ Hi, I'm a non-binary full stack de
 - Scala
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDYwMTMyNV19
+eyJoaXN0b3J5IjpbNzYxMDg5NjI5XX0=
 -->
